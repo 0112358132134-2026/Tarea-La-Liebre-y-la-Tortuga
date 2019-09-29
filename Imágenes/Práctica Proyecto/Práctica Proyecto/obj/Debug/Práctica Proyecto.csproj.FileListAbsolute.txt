@@ -1,0 +1,22 @@
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\bin\Debug\Práctica Proyecto.exe.config
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\bin\Debug\Práctica Proyecto.exe
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\bin\Debug\Práctica Proyecto.pdb
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica Proyecto.csprojAssemblyReference.cache
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Comandos.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Eleccion.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Instrucciones.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Preguntas.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Tablero1.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Properties.Resources.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.TabInicio.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Tablero2.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Tablero21.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Tablero31.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica Proyecto.csproj.GenerateResource.cache
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica Proyecto.exe
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica Proyecto.pdb
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.EstadoAvatar.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.About.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Tablero4.resources
+C:\Users\Pcuevas2026\Desktop\Práctica Proyecto\Práctica Proyecto\obj\Debug\Práctica_Proyecto.Tablero5.resources

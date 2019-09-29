@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  La Liebre y la Tortuga.cpp
+C:\Users\Pablo\Desktop\La Liebre y la Tortuga\La Liebre y la Tortuga.cpp(16,12) : warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Pablo\Desktop\La Liebre y la Tortuga\La Liebre y la Tortuga.cpp(19,52) : warning C4838: la conversión de 'double' en 'int' requiere una conversión de restricción
+  Generando código...
+C:\Users\Pablo\Desktop\La Liebre y la Tortuga\La Liebre y la Tortuga.cpp(19,52) : warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  La Liebre y la Tortuga.vcxproj -> C:\Users\Pablo\Desktop\La Liebre y la Tortuga\Debug\La Liebre y la Tortuga.exe
