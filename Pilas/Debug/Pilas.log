@@ -1,6 +1,0 @@
-﻿  Pilas.cpp
-C:\Users\Pablo\Desktop\Pilas\Pilas.cpp(34,12) : warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\Pablo\Desktop\Pilas\Pilas.cpp(29,10) : warning C4101: 'n2': variable local sin referencia
-C:\Users\Pablo\Desktop\Pilas\Pilas.cpp(31,15) : warning C4101: 'random2': variable local sin referencia
-C:\Users\Pablo\Desktop\Pilas\Pilas.cpp(30,10) : warning C4101: 'c': variable local sin referencia
-  Pilas.vcxproj -> C:\Users\Pablo\Desktop\Pilas\Debug\Pilas.exe
